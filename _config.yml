@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Empty_lambda
+title : 泰樾
 tagline: Site Tagline
 author :
-  name : Jeff CYT
-  email : 
-  github : empty-lambda
+  name : taiyuen_jeff
+  email : taiyuen.tw@gmail.com
+  github : 
   twitter : 
   feedburner : 
 
