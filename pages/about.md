@@ -1,21 +1,9 @@
 ---
 layout: page
-title: "Abt jeff"
+title: "關於泰樾"
 description: ""
 ---
 {% include JB/setup %}
 
-從 <del>誤</del> 件導向 到 pure functional
-
-從 eclipse 到 emacs
-
-小小碼農慢慢進化還是小小碼農 XD
-
-----
-
-	learning :: Reading -> Time -> Practice -> Maybe Result
-
-	beingLazy :: a -> Doom
-	beingLazy _ = Doom
-
-----------
+專業經營 燈具 燈飾 口銅 生產與研發
+餘二十載經驗 深耕臺灣燈飾相關業務
